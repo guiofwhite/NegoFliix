@@ -1,6 +1,8 @@
 header{
     background-color: rgb(190, 190, 190);
-    font-family: monospace;
+    font-family: "Manufacturing Consent", system-ui;
+    font-weight: 400;
+    font-style: normal;
     color: crimson;
     font-size: 30px;
     border-bottom: solid 2px black;
