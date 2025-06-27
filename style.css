@@ -19,3 +19,8 @@ body{
     background-size: cover;
     color: white;
 }
+
+.chamada{
+    display: flex;
+    justify-content: center;
+}
