@@ -3,4 +3,5 @@ header{
     font-family: Arial, Helvetica, sans-serif;
     color: crimson;
     font-size: 30px;
+    border-bottom: solid 2px black;
 }
