@@ -23,5 +23,5 @@ body{
 .chamada{
     display: flex;
     justify-content: center;
-    background-color: black;
+    background-color: rgb(41, 39, 39);
 }
