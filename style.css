@@ -29,3 +29,7 @@ body{
 .chamada-texto{
     margin-right: 10%;
 }
+
+.img{
+    display: flex;
+}
