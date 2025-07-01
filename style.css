@@ -30,7 +30,7 @@ body{
     margin-right: 10%;
 }
 
-.img{
+.categoria-videos{
     display: flex;
     overflow: auto;
     width: 100%;
