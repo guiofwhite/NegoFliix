@@ -25,3 +25,7 @@ body{
     justify-content: center;
     background-color: rgb(41, 39, 39);
 }
+
+.chamada-texto{
+    margin-right: 5px;
+}
